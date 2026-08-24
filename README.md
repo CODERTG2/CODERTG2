@@ -10,7 +10,7 @@
 ```yaml
 name: Tanmay Garg
 located_in: Chicago, Illinois
-education: B.S. in Computer Science + Physics - UIUC
+education: Freshman studying B.S. in Computer Science + Physics & UIUC
 fields_of_interest: ["Software Development", "AI/ML", "Robotics", "Physics", "Mathematics", "Quantum Computing"]
 ```
 
