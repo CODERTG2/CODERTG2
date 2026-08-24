@@ -11,13 +11,14 @@
 name: Tanmay Garg
 located_in: Chicago, Illinois
 education: B.S. in Computer Science + Physics - UIUC
-fields_of_interest: ["Software Development", "AI/ML", "Robotics", "Mathematical Physics"]
+fields_of_interest: ["Software Development", "AI/ML", "Robotics", "Physics", "Mathematics", "Quantum Computing"]
 ```
 
 ### 🚀 What I'm Up To
 - 🔭 **Currently working on:** [Apply Genie](https://github.com/CODERTG2/apply-genie) - *(Agentic filtering for scholarships)*
 - 👯 **Looking to collaborate on:** [Open Mechanics](https://github.com/CODERTG2/open-mechanics) - *(Open source online physics lab)*
-- 💼 **Interning at:** Grassroot Academy & CS4IL
+- 💼 **Interning at:** Grassroot Academy & Insight
+- ⭐ **Past Internships:** CS4IL
 
 ### 💻 Tech Stack
 **Languages**  
