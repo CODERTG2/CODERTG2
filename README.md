@@ -15,7 +15,7 @@ fields_of_interest: ["Software Development", "AI/ML", "Robotics", "Physics", "Ma
 ```
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on:** [Apply Genie](https://github.com/CODERTG2/apply-genie) - *(Agentic filtering for scholarships)*
+- 🔭 **Currently working on:** [Scholarship HQ](https://github.com/CODERTG2/apply-genie) - *(Agentic filtering for scholarships)*
 - 👯 **Looking to collaborate on:** [Open Mechanics](https://github.com/CODERTG2/open-mechanics) - *(Open source online physics lab)*
 - 💼 **Interning at:** Grassroot Academy & Insight
 - ⭐ **Past Internships:** CS4IL
