@@ -15,8 +15,8 @@ fields_of_interest: ["Software Development", "AI/ML", "Robotics", "Physics", "Ma
 ```
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on:** [DormDropouts](https://dormdropouts.com) and [Scholarship HQ](https://github.com/CODERTG2/apply-genie) - *(Agentic filtering for scholarships)*
-- 👯 **Looking to collaborate on:** [Open Mechanics](https://github.com/CODERTG2/open-mechanics) - *(Open source online physics lab)*
+- 🔭 **Currently working on:** [DormDropouts](https://dormdropouts.com) *(all-in-one student apartment search platform)* and [Scholarship HQ](https://github.com/CODERTG2/apply-genie) *(Agentic filtering for scholarships)*
+- 👯 **Looking to collaborate on:** [Open Mechanics](https://github.com/CODERTG2/open-mechanics) *(Open source online physics lab)*
 - 💼 **Interning at:** Insight
 - ⭐ **Past Internships:** CS4IL, Grassroot Academy
 
